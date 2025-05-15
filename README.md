@@ -127,3 +127,4 @@ curl http://localhost:8000/metrics/MSFT?metrics=revenue&metrics=netIncome
 ## License
 
 MIT # Successfully tested with AAPL
+# Successfully tested with any ticker
